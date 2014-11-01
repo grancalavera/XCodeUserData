@@ -328,7 +328,7 @@
 				<key>CommandID</key>
 				<string>Xcode.IDESourceEditor.CmdDefinition.MoveLineUp</string>
 				<key>Group</key>
-				<string>Xcode.IDESourceEditor.MenuDefinition.Editor Menu for Playground</string>
+				<string>Editor Menu for Playground</string>
 				<key>GroupID</key>
 				<string>Xcode.IDEPlaygroundEditor.MenuDefinition.Editor</string>
 				<key>GroupedAlternate</key>
@@ -352,7 +352,7 @@
 				<key>CommandID</key>
 				<string>Xcode.IDESourceEditor.CmdDefinition.MoveLineDown</string>
 				<key>Group</key>
-				<string>Xcode.IDESourceEditor.MenuDefinition.Editor Menu for Playground</string>
+				<string>Editor Menu for Playground</string>
 				<key>GroupID</key>
 				<string>Xcode.IDEPlaygroundEditor.MenuDefinition.Editor</string>
 				<key>GroupedAlternate</key>
